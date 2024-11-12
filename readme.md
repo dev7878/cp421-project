@@ -1,4 +1,4 @@
-Here's a comprehensive project report based on the steps in the notebook and the outputs provided:
+
 
 ---
 
@@ -116,8 +116,8 @@ The goal of this project was to build a recommendation system for books, leverag
 
 ### Workflow
 
-1. ![Process Overview](workflow\Recommendation System Workflow-1.png)
-2. ![Detailed Workflow](workflow\Recommendation System Workflow-2.png)
+1. ![Process Overview](workflow\Recommendation-System-Workflow-1.png)
+2. ![Detailed Workflow](workflow\Recommendation-System-Workflow-2.png)
 
 ---
 
