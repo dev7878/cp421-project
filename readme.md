@@ -112,8 +112,8 @@ The goal of this project was to build a recommendation system for books, leverag
 
 ### Workflow
 
-1. ![UI Screenshot](workflow\Recommendation-System-Workflow-1.png)
-2. ![UI Screenshot](workflow\Recommendation-System-Workflow-full.png)
+1. ![UI Screenshot](Recommendation-System-Workflow-1.png)
+2. ![UI Screenshot](Recommendation-System-Workflow-full.png)
 
 ---
 
