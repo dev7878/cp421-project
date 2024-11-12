@@ -114,6 +114,11 @@ The goal of this project was to build a recommendation system for books, leverag
   - User 6 was not found in the model, highlighting a limitation when users lack interaction data.
 - **Insight**: The recommendations appeared diverse, covering various genres and styles, which aligns with the system’s goal to provide personalized suggestions.
 
+### Workflow
+
+1. workflow\Recommendation System Workflow-1.png
+2. workflow\Recommendation System Workflow-2.png
+
 ---
 
 ### **Conclusion**
@@ -128,6 +133,4 @@ This project successfully developed a book recommendation system using both base
 
 **Future Work**: Additional improvements could involve incorporating contextual features like genre or publication year, or using deep learning-based collaborative filtering to further enhance recommendations.
 
----
-
-This structured report provides a thorough understanding of each step and findings from the project. Let me know if you'd like any further details!
+--
