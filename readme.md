@@ -1,13 +1,9 @@
-
-
 ---
-
 ### **Project Report: Book Recommendation System**
 
 #### **1. Introduction**
 
 The goal of this project was to build a recommendation system for books, leveraging user ratings data. The system utilizes various models, from simple averages to collaborative filtering techniques, to predict ratings and recommend books. The performance of each model was evaluated using Root Mean Square Error (RMSE) and other relevant metrics.
-
 ---
 
 ### **2. Data Loading and Initial Inspection**
@@ -117,7 +113,7 @@ The goal of this project was to build a recommendation system for books, leverag
 ### Workflow
 
 1. ![Process Overview](workflow\Recommendation-System-Workflow-1.png)
-2. ![Detailed Workflow](workflow\Recommendation-System-Workflow-2.png)
+2. ![Detailed Workflow](workflow\Recommendation-System-Workflow-full.png)
 
 ---
 
